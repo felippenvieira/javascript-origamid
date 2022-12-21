@@ -1,5 +1,5 @@
 {
-  "name": "0501-dataset",
+  "name": "animais-fantasticos",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "build": "webpack --mode production",
     "dev": "webpack --mode development --watch"
   },
-  "author": "",
+  "author": "Felippe Vieira",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.20.5",
